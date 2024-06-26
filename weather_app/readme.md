@@ -1,15 +1,7 @@
 # Description
-This a expense tracker which keeps track of income and expenses.
+This a weather app which displays the the properties like temperature, humidity and wind speed of city upon taking the city name as user input.
+It is built using HTML, CSS and JavaScript.
 
-# Project Specifications
-- Create UI for project
-- Display  where the expenses was made and on which date it was made
-  and amount transaction in DOM
-- Delete items from DOM
-
-# Type of change
- - [X]  New feature (non-breaking change which adds functionality)
-- [X] Explain the Testing instructions
 
 # Test Configuration:
 
@@ -22,7 +14,6 @@ Text-editors used: VS Code
   - [X] My changes generate no new warnings
 
 ## Screenshots
-
-![Screenshot (28)](https://user-images.githubusercontent.com/72096769/156885410-05944a5c-a910-49d3-a8f9-45445d5fe271.png)
-![Screenshot (29)](https://user-images.githubusercontent.com/72096769/156885415-bdb16e71-10bb-4539-b8e6-6f037182291d.png)
+![main_page_screenshot](https://github.com/Pujash19/Weather_app/blob/main/weather_app/main_page_screenshot.png)
+![output_screenshot](https://github.com/Pujash19/Weather_app/blob/main/weather_app/output_screenshot.png)
 
