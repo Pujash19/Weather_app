@@ -14,6 +14,6 @@ Text-editors used: VS Code
   - [X] My changes generate no new warnings
 
 ## Screenshots
-![main_page_screenshot]()
-![output_screenshot]()
+![main_page_screenshot](https://github.com/Pujash19/Weather_app/blob/main/Weather_app/main_page_screenshot.png)
+![output_screenshot](https://github.com/Pujash19/Weather_app/blob/main/Weather_app/output_screenshot.png)
 
